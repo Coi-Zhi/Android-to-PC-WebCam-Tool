@@ -34,3 +34,10 @@ requirement install
 
 ```bash id="14k9bo"
 pip install opencv-python numpy pyvirtualcam
+
+## Usage Guidance
+- Install the APK in the Release
+- Open the app
+- Connect your Android phone to the computer with USB
+- Run `run.bat`
+- Now you can see the camera window on your PC screen
