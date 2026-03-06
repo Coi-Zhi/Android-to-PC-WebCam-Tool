@@ -28,13 +28,17 @@ Compared with traditional wireless webcam apps, this solution provides:
 
 ### Python Environment
 
+The PC client files are located in **PWebCam**.
+
 Python version: **3.10**
 
-requirement install
+Required packages:
 
-```bash id="14k9bo"
+```bash
 pip install opencv-python numpy pyvirtualcam
 ```
+You can also run ```webcam.exe``` to get the same result without installing Python manually.
+
 ---
 
 ## Usage Guidance
