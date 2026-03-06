@@ -34,6 +34,8 @@ requirement install
 
 ```bash id="14k9bo"
 pip install opencv-python numpy pyvirtualcam
+```
+---
 
 ## Usage Guidance
 - Install the APK in the Release
