@@ -24,11 +24,13 @@ Compared with traditional wireless webcam apps, this solution provides:
 
 ---
 
-## Project Structure
+## PC Client Requirement
 
-```text
-PWebCam/
-├─ AndroidApp/          # Android Studio project
-├─ webcam.py            # PC receiver
-├─ run.bat              # One-click startup script
-└─ README.md
+### Python Environment
+
+Python version: **3.10**
+
+requirement install
+
+```bash id="14k9bo"
+pip install opencv-python numpy pyvirtualcam
